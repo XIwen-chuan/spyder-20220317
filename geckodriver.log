@@ -1,0 +1,137 @@
+1647525208367	geckodriver	INFO	Listening on 127.0.0.1:5106
+1647525208891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile0fLjnR"
+1647525209596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofile0fLjnR\\search.json.mozlz4", (void 0)))
+1647525212115	Marionette	INFO	Listening on port 5112
+1647525212522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"tp_zrec=0;tp_dingyue_video=0;pf_noti_entry_num=0;qap_question_visitor= 0;pf_adjust=0;tp_contents=2;tp_topic_style=0;top_test_4_liguangyi=1;qap_question_author=0;se_ffzx_jushen1=0","x-ab-pb":"Ct4BngU3DFIFdAhPB3IH3AcHDAsEhAJQA9YE4wVpAfYCmwfPC+sGVAdnCHkIjQRRBbULVgXdB0EGeQd6COwKNwWrBnQBjAUnBwEJ6QRWDH0CtwPzAzMFNAz0C7kC2AJPA6ADUgu0AKIDgAXkCsUIagH0A7cIOwIzBDAGtArTB2ALGwCyB0cA2Ad2CC4IogamBlcHAgjcCxEFPwbXAngHAQuhA4wEiwV3BycIMgPnBSoG1wtAAcwCmAhDADIFMQZmB4kIFgYqA1cEewebCz8A3AjgCwEGlAZsCOUIpgQpBQ8LEm8AAQABAAAAAAAAAAAAAAAACwAAAAAAAAMAAAAAAAEAAAAAAAAAAQAAAAAAAAsAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAgAAAgAAAAAAAAAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_Y_Yqc6XBrLNxbMF0mT2qcHU8gqSX2Lt0Y_O8FbeqeTYz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=people&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"tp_zrec=0;tp_dingyue_video=0;pf_noti_entry_num=0;qap_question_visitor= 0;pf_adjust=0;tp_contents=2;tp_topic_style=0;top_test_4_liguangyi=1;qap_question_author=0;se_ffzx_jushen1=0","x-ab-pb":"Ct4BngU3DFIFdAhPB3IH3AcHDAsEhAJQA9YE4wVpAfYCmwfPC+sGVAdnCHkIjQRRBbULVgXdB0EGeQd6COwKNwWrBnQBjAUnBwEJ6QRWDH0CtwPzAzMFNAz0C7kC2AJPA6ADUgu0AKIDgAXkCsUIagH0A7cIOwIzBDAGtArTB2ALGwCyB0cA2Ad2CC4IogamBlcHAgjcCxEFPwbXAngHAQuhA4wEiwV3BycIMgPnBSoG1wtAAcwCmAhDADIFMQZmB4kIFgYqA1cEewebCz8A3AjgCwEGlAZsCOUIpgQpBQ8LEm8AAQABAAAAAAAAAAAAAAAACwAAAAAAAAMAAAAAAAEAAAAAAAAAAQAAAAAAAAsAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAgAAAgAAAAAAAAAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_Y0O0Fbe0UUtfQLO8f0xqUJ9ynuFxUw20MLO820UBeLOz","x-zst-81":"3_2.0aR_sne90QR2VMhnyT6Sm2JLBkhnunRFZfH2Z6CHBgho_xuf01Xt0QAu0k4f9WqOBJufIQ_RybitVkukyK8tK7XuqS6S_Vuky16P0riRCyufOovxBXgSCiiR0ELYuUrxmtDomqU7ynXtOnAoTh_PhRDSTFLw_p9t1_gFYtrCGzBFmQDxGJGwCCqgYzbLs9BV_GBV0DqNKT9oXFBYCpJSTv4SYAqL_aqNOseeYfBH9kutOYcnCJ9e8b9e0kgxssBVLivHL0goGpvCmFJXKJhLyoic_DweYjBV1F9NOb_O0rBNpzG29nGV8SHrq8DXp8CofFJS_ObU9CqkweefmiJx9Hc3964XKbX2mG6SLJ63qjBNLEUCMKupLSJ3OJ0cmgGo9s82MIqc9iUFxOgV1WGX92bC9HDCp6BXMh9YGSRSquwxpSrLCJhtOcGx0ChLseQNC"},"credentials":"include"} failed, status: 403
+1647525237169	Marionette	INFO	Stopped listening on port 5112
+[Parent 22264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1647525707098	geckodriver	INFO	Listening on 127.0.0.1:6345
+1647525707617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6346" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileWP2VBe"
+1647525707900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofileWP2VBe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6346/devtools/browser/a5026d54-e67d-4c47-a12d-d4baa426bf74
+1647525709623	Marionette	INFO	Listening on port 6351
+1647525709733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647525712743	Marionette	INFO	Stopped listening on port 6351
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647525718991	geckodriver	INFO	Listening on 127.0.0.1:6435
+1647525719500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6436" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileuxs5Br"
+1647525719772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofileuxs5Br\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6436/devtools/browser/49cd49fa-3d0a-4976-bb7c-fed9a4f3b02d
+1647525721488	Marionette	INFO	Listening on port 6441
+1647525721538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"pf_noti_entry_num=0;pf_adjust=0;qap_question_visitor= 0;tp_dingyue_video=0;tp_zrec=0;top_test_4_liguangyi=1;se_ffzx_jushen1=0;qap_question_author=0;tp_topic_style=0;tp_contents=2","x-ab-pb":"Ct4BLgjWBNwHJwi5AqEDjARmB9cLtABRBUEGqwabC7QKtwMwBlQHAQl0AU8DcgcBC+QKVgUCCEcAQAFqASkF3AhpAaID8wP0A+cFJwc3DFADVwQWBsUIeQd2CKYEegjlCNwLbAgbANcCKgObB0MAVgy1C4QC4wU/BncHeQgRBZ4FlAZgC3QIPwAyA1IFzAKMBQ8LOwJPB9gH7AozBc8LCwSiBtMHUgs0DAcMpgZ9AjMEMgWABWcIoAM3BXsHsgeYCNgCAQaNBDEG3QeJCIsFKgbrBvQL9gLpBFcHtwh4B+ALEm8AAAAACwAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAACABgBAwAAAAAAAAAAAAAAAAAAAAAAAAABAAsAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_m0FBgvuqN9SxoRYyzuY0HrHqHCYpHBNBzwtyrHu0gwOz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 25676, MediaDecoderStateMachine #1] WARNING: 18f33ef72e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"qap_question_author=0;qap_question_visitor= 0;pf_noti_entry_num=0;tp_dingyue_video=0;top_test_4_liguangyi=1;pf_adjust=0;tp_contents=2;tp_zrec=0;tp_topic_style=0;se_ffzx_jushen1=0","x-ab-pb":"Ct4BNwxAAVcEMgV0CH0C8wM3BeALUAOiAykFVgyABYwF9AOiBrIHuQJPB9MHBwxHAOUINAw/ANwLAQubC5gIjQRUBycIbAjcCNwHdwczBKYE3QeJCA8L9gILBDAGJwf0C7cDUgVBBnoI5AppAdgCoQNXB5sHKgPnBdcLagFnCBsAdAHMAnYIeQcyA9YE4wXXAs8LFgYqBj8GtwimBrQAOwKMBDEGAQZ4B9gH6QRRBaADngVmB7QKeQjrBnIHewdDAAIItQuEAlILTwMuCOwKEQUzBasGAQlgC1YFiwWUBsUIEm8BAAAAAAAAAAAAAAABAAAAAAALAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAEDAAEAAAEAAAAAAAAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_m0FBgvuqN9SxoRYyzuY0HrHqHCYpHBNBzwtyrHu0gwOz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.zhihu.com"
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+1647525791436	Marionette	INFO	Stopped listening on port 6441
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647525942853	geckodriver	INFO	Listening on 127.0.0.1:11635
+1647525943359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11636" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileittR5j"
+1647525943634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofileittR5j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11636/devtools/browser/a8e6556a-4c83-4bbb-8017-aa1717fa16fb
+1647525945343	Marionette	INFO	Listening on port 11639
+1647525945377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"tp_zrec=0;pf_noti_entry_num=0;top_test_4_liguangyi=1;qap_question_visitor= 0;pf_adjust=0;tp_dingyue_video=0;tp_contents=2;qap_question_author=0;se_ffzx_jushen1=0;tp_topic_style=0","x-ab-pb":"Ct4BtABSBXkIUgszBZ4FlAZXB+ALzws/ALkCpgZ4B5sL2ALnBWwI3Ag3DHIHmwc0DNcLAQsqBgIIDwvkCnQB6QS3COUItQtQA90HeggqA6YEVgUpBRYGMQYHDLIHTwMyBXQIiQi0CqsG0wcuCEcA9APrBsUIjAQRBScHhALXApgIYAtqAScIVwR7BwEJ7Ao3BXcH2AfWBIAFTwe3A3YI4wWiAwEGZgdWDPQLGwAzBHkH9gIwBqIGOwLzA4sFjAU/BmcIQAF9AswCVAcyAwsEUQVDAKED3AegA0EGaQGNBNwLEm8AAAABAAAAAAALAAsAAAIAAAAAAQAAAAAAAAEAAAAAAAADAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_0wS8QQuqQ_2prXFqfXNqo4eqnh2pFBYq1XNB2H98Q7Yz"},"credentials":"include"} failed, status: 403
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+console.error: "Unable to find target with innerWindowId:2147483650"
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"tp_zrec=0;tp_topic_style=0;pf_adjust=0;top_test_4_liguangyi=1;qap_question_author=0;qap_question_visitor= 0;tp_contents=2;tp_dingyue_video=0;pf_noti_entry_num=0;se_ffzx_jushen1=0","x-ab-pb":"Ct4Btwi5AswC3AdQAwEGlAabB7IHNAw7AlcEKQVmB3YIegjjBRsAiwUWBkEGVwdnCOQKKgNSBWkBEQWABbULngVsCIkI8wMzBQsE3AtWDOsGKgZHAGoB9AMnCEAB1wIyBecFMAZSC7QKhALdB2ALdAG3A1EF0wdDADIDjAWmBj8AMQZUB3IHAgiYCOUINwzXC40EeQjgC4wE1gR4By4I7Ap7B3QImws/BqEDqwYnB9gHxQgzBDcFDwuiA6YE6QSiBnkH9AvYAtwIAQkBC3cHBwz2AqADtAB9Ak8DVgVPB88LEm8ACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAMAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAGAAAAAAAAAABAAABAAAAAAAAAAABAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAs=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_0wS8QQuqQ_2prXFqfXNqo4eqnh2pFBYq1XNB2H98Q7Yz"},"credentials":"include"} failed, status: 403
+1647526955343	geckodriver	INFO	Listening on 127.0.0.1:4056
+1647526955849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4057" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofilersjeF1"
+1647526956143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofilersjeF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4057/devtools/browser/787afe59-4ce0-4336-8930-3d706d806fa6
+1647526957854	Marionette	INFO	Listening on port 4061
+1647526957869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"qap_question_visitor= 0;pf_noti_entry_num=0;tp_topic_style=0;tp_zrec=0;top_test_4_liguangyi=1;pf_adjust=0;tp_contents=2;tp_dingyue_video=0;se_ffzx_jushen1=0;qap_question_author=0","x-ab-pb":"Ct4BdgjYB30CuQLWBHoIiQi3COALJwf2AkEG5wWrBuwKMgOMBTQMmwuiAwEJgAU3BaIGZgebB/MDMQaNBCoGewdPAwsEEQUzBXIHFgaMBFQHAQZPB90HbAg3DOQKzwv0AykF3AcuCEABVwSmBMUIGwCLBZQGsgcBCwcMDwvYAlYFngU/BtwLPwBSBeUItwPjBXgHAgj0C0cAzALrBnkHUgtqAdMHmAgwBtcLeQhRBVcHVgyEAtcCoAOhAzME3Ai0CkMAtAA7AukEZwhgCycIaQEyBSoDpgZ0CHQBUAO1C3cHEm8AAAALAAAAAAAAAAAAAQEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAABAAAAAAAAABgAAAAAAAAAAAIAAAAAAwA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_ThxyFhr0eTSpNutyThYqgc9qbX2fnwF0M8FqQe9qo7Yz"},"credentials":"include"} failed, status: 403
+console.error: "Unable to find target with innerWindowId:2147483650"
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.eda9be7b25bfff1b34ba.js, line 1: WebGL context was lost.
+JavaScript error: https://static.zhihu.com/heifetz/main.app.dcb40004303376b3b614.js, line 20: ResponseError: request https://www.zhihu.com/api/v4/search_v3?t=general&q=%E8%81%94%E5%90%8D%E6%AC%BE&correction=1&offset=0&limit=20&filter_fields=&lc_idx=0&show_all_topics=0&search_source=Normal with extra of {"headers":{"x-ab-param":"tp_topic_style=0;qap_question_visitor= 0;pf_noti_entry_num=0;tp_dingyue_video=0;top_test_4_liguangyi=1;tp_contents=2;tp_zrec=0;pf_adjust=0;se_ffzx_jushen1=0;qap_question_author=0","x-ab-pb":"Ct4BgAUqBnkH2AdnCDcF3AgLBAIILggbAPYCJwi3CAEL4AtSBYkIaQFHALcD0wfcC0EGeAd6CDQMKgPpBJ4FogabB5sL7ApPA7QAogOmBqsGVweEAtcCoQNRBYwF3AfFCGALVwRWBeMFewcBBjEGBwzPCzsCKQXnBd0HmAjYAj8Gcgf0Az8AMgUnB2YH1wtDAEABMgMzBesGDwugA/MDFgZUB7ULfQJ3B7IHdghsCOQKUgtqAYwEeQiNBPQLzAJQA08HtAoRBZQGNwzWBHQIpgSLBQEJVgy5AjAG5Qh0ATMEEm8AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIBAAAAAAEAAAAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAMAAAAAAAABAAAAAAAAAAAAAAABAAAAAAABCwAAAAA=","x-api-version":"3.0.91","x-app-za":"OS=Web","x-requested-with":"fetch","x-zse-93":"101_3_2.0","x-zse-96":"2.0_ThxyFhr0eTSpNutyThYqgc9qbX2fnwF0M8FqQe9qo7Yz"},"credentials":"include"} failed, status: 403
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
