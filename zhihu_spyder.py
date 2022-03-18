@@ -14,7 +14,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-
 option = ChromeOptions()
 option.add_experimental_option('excludeSwitches', ['enable-automation'])
 option.add_experimental_option('useAutomationExtension', False)
@@ -48,8 +47,6 @@ def get_answers_ids(question_id):
         answers_ids.append(answer_id)
 
     return answers_ids
-
-
 
 def content(answer_id):
     _url = f"https://www.zhihu.com/api/v4/answers/{str(answer_id)}/root_comments"
